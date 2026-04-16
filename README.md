@@ -11,7 +11,13 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in full
 - **[CeaserCypher](https://github.com/serene987/CeaserCypher)** - Encryption/decryption application using HTML, CSS, and JavaScript
 
 ### Dashboard & Enterprise Solutions
-- **[FRAMELINK](https://github.com/serene987/Frame-Link)** - A sophisticated 5-tier dashboard website for enterprise management and analytics (Private)
+- **[FRAMELINK](https://github.com/serene987/Frame-Link)** - A sophisticated 5-tier dashboard Networking Platform website for Media Creatives (Private)
+- Clients → Find and Hire Photography Artists
+- Artist → connect and hire other artists
+- Beginner Artist finds jobs
+- Intermediates can collab
+- Professionals can hire interns
+- Admin → controls entire website settings 
 - Here is the current prototype ready to use. https://framelink.alphasoftwares.in/ 
 
 ### Security & Cryptography
