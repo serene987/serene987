@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Serena Irene Pereira
 
-Welcome to my GitHub profile! I'm a passionate developer with experience in full-stack web development, mobile app development, network security, data structures, cloud infrastructure, and machine learning.
+Welcome to my GitHub profile! I'm a passionate developer with interests in full-stack web development, mobile app development, network security, data structures, cloud infrastructure, and machine learning.
 
 ## 🚀 Featured Projects
 
